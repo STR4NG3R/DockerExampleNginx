@@ -2,4 +2,4 @@
 
 chmod o+rx ./* && chmod o+r ./*
 docker build -t nginxapplication .
-sudo docker run -it -p 80:80  nginxapplication
+docker run -it -p 80:80  nginxapplication
