@@ -12,7 +12,9 @@ El proyecto se debe de observar de esta manera
 
 Este repositorio esta enlazado con DockerHUB, y esta escuchando la rama main,
 por lo cual cada push que se realicé se desplegara en docker hub, por lo cual
-es necesario crear una rama de desarrollo y cuada vez que los cambios se 
+es necesario crear una rama de desarrollo y cuada vez que los cambios se
 desea pasar los cambios a main se tendra que hacer un merge.
 
+Así se vio en el docker hub cuando se hizo el deploy
+![Proyecto](./doc/ArchLinux_2021-04-30_05-47-33.png)
 :)
